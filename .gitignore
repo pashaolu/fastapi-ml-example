@@ -1,0 +1,15 @@
+.python-version
+__pycache__
+*.pyc
+.venv
+*.egg-info*
+.coverage
+*.pytest_cache
+*.mypy_cache
+.python-version
+*.pkl
+*.joblib
+*.DS_Store
+*.idea
+
+
